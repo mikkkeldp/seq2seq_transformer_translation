@@ -19,8 +19,8 @@ python3 main.py
 
 ## Example translation
 
-**input**: Eine Gruppe von Menschen steht vor einem Iglu
-**Our model output**:  A group of people in front of an igloo 
-**Google translate output**:  A group of people stands in front of an igloo
+**input**: Eine Gruppe von Menschen steht vor einem Iglu  
+**Our model output**:  A group of people in front of an igloo   
+**Google translate output**:  A group of people stands in front of an igloo  
 
 
