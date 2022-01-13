@@ -1,4 +1,4 @@
-# seq2seq_transformer_translation
+# Seq2Seq transformer for translation
 Seq2Seq model for German to English translation using a simple transformer architecture. 
 
 Uses [Multi30k](https://www.statmt.org/wmt16/multimodal-task.html#task1) dataset to train a German to English translation model. 
